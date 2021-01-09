@@ -1,1 +1,2 @@
-Projeto: fj22-ingressos - Spring Framework
+Project: fj22-ingressos - Spring Framework
+Developer: Gustavo Trovalim
