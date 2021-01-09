@@ -17,12 +17,6 @@
         <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
 
-	<developers>
-		<developer>
-			<name>Gustavo Trovalim</name>
-			<email>gustavot.jordao@gmail.com</email>
-		</developer>
-	</developers>
 
     <dependencies>
 
@@ -129,13 +123,6 @@
             <artifactId>jaxb-api</artifactId>
             <version>2.2.12</version>
         </dependency>
-        <!-- https://mvnrepository.com/artifact/org.apache.avro/avro -->
-        <dependency>
-            <groupId>org.apache.avro</groupId>
-            <artifactId>avro</artifactId>
-            <version>1.9.2</version>
-        </dependency>
-
     </dependencies>
     <build>
         <finalName>ingresso</finalName>
